@@ -2,7 +2,7 @@
 require('dotenv').config();
 var path = process.cwd();
 var mongo = require('mongodb');
-var url = process.env.MONGOLAB_URI;
+var url = process.env.MONGO_URI;
 var acctKey = process.env.API_KEY;
 var bing = require('node-bing-api')({ accKey: acctKey });
 
