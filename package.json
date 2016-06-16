@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Simple image searcher",
   "engines": {
-    "npm": "4.4.5"
+    "node": "4.4.5"
   },
   "main": "server.js",
   "repository": {
