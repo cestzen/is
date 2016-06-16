@@ -12,20 +12,10 @@
   },
   "homepage": "https://imagesearch-cestzen.c9users.io/",
   "bugs": "https://github.com/cestzen/is.git",
-  "keywords": [
-    "MongoDB",
-    "Mongoose",
-    "full stack",
-    "Express",
-    "Node",
-    "javascript",
-    "boilerplate"
-  ],
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Blake Johnston",
-  "license": "MIT",
+  "author": "C'est Zen",
   "dependencies": {
     "dotenv": "^1.2.0",
     "express": "^4.12.4",
